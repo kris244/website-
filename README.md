@@ -10,19 +10,23 @@
   <td style="width: 600px; font-size:12px; font-family: sans-serif;">
   
   <p>Hi! My name is Allyson Dias.
-  <a href="https://twitter.com/allysondias">@allysondias.</a></p>
+  <p><a href="https://twitter.com/allysondias">@allysondias</a></p></p>
   <p<br></p>
-  <p><i>Present:</i><p>
+  <p><i>present</i><p>
   <p>I help keep kids out of school with the
 	<a href="www.thielfellowship.com">Thiel Fellowship</a>, which is a part of the <a href="www.thielfoundation.com">The Thiel Foundation</a>. </p>
 
-<p><i>Past:</i></p>
-<p<br></p>
-<a href="https://www.forbes.com/forbes/welcome/?toURL=https%3A//www.forbes.com/pictures/59fd01934bbe6f37dda1bbee/allyson-dias-28/&refURL=https%3A//www.google.com/&referrer=https%3A//www.google.com/">Forbes 30u30</a>
-	
+<p><i>press</i></p>
+<p><a href="https://www.forbes.com/forbes/welcome/?toURL=https%3A//www.forbes.com/pictures/59fd01934bbe6f37dda1bbee/allyson-dias-28/&refURL=https%3A//www.google.com/&referrer=https%3A//www.google.com/">Forbes 30u30</a>
+<p<br></p></p>
+<p><a href="http://www.businessinsider.com/30-and-under-tech-industry-rising-stars-2018-5">Business Insider 30 and under: The tech industry's rising stars</a></p>
+
+
+<p><i>contact</i><p>
+<p>I try to avoid linkedin, facebook, instagram, snapchat, etc.</p>			
 	
 					
-<p>I try to avoid linkedin, facebook, instagram, snapchat, etc.</p>					
+			
 					
 
 </body>
