@@ -14,7 +14,7 @@
   <p<br></p>
   <p><i>present</i><p>
   <p>I help keep kids out of school with the
-	<a href="www.thielfellowship.com">Thiel Fellowship</a>, which is a part of the <a href="www.thielfoundation.com">The Thiel Foundation</a>. </p>
+	<a href="http://thielfellowship.org">Thiel Fellowship</a>, which is a part of the <a href="http://thielfoundation.org/">The Thiel Foundation</a>. </p>
 
 <p><i>press</i></p>
 <p><a href="https://www.forbes.com/forbes/welcome/?toURL=https%3A//www.forbes.com/pictures/59fd01934bbe6f37dda1bbee/allyson-dias-28/&refURL=https%3A//www.google.com/&referrer=https%3A//www.google.com/">Forbes 30u30</a>
