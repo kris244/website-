@@ -9,12 +9,13 @@
   <tr>
   <td style="width: 600px; font-size:12px; font-family: sans-serif;">
   
-  <p>My name is Allyson Dias.</p>
+  <p>Hi! My name is Allyson Dias.</p>
+  <a href="https://twitter.com/allysondias">@allysondias.</a>
   
   <p>I help keep kids out of school with the
 	<a href="www.thielfellowship.com">Thiel Fellowship</a>. </p>
 					
-<p>I try to avoid twitter, linkedin, facebook, instagram, snapchat, etc.</p>					
+<p>I try to avoid linkedin, facebook, instagram, snapchat, etc.</p>					
 					
 
 </body>
