@@ -12,6 +12,6 @@
   <p>My name is Allyson Dias.</p>
   
   <p>I help keep kids out of school with the
-					<a href="thielfellowship.com">Thiel Fellowship</a>. </p>
+					<a href="www.thielfellowship.com">Thiel Fellowship</a>. </p>
 
 </body>
