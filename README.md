@@ -12,6 +12,9 @@
   <p>My name is Allyson Dias.</p>
   
   <p>I help keep kids out of school with the
-					<a href="www.thielfellowship.com">Thiel Fellowship</a>. </p>
+	<a href="www.thielfellowship.com">Thiel Fellowship</a>. </p>
+					
+<p>I try to avoid twitter, linkedin, facebook, instagram, snapchat, etc.</p>					
+					
 
 </body>
